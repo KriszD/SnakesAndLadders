@@ -1,4 +1,3 @@
-//Kathrine Mondshain helped me with this project.
 #include <stdio.h>
 	//This is used for the rand function and makes srand and rand available for use.
 #include <stdlib.h>
