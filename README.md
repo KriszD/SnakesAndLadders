@@ -1,2 +1,1 @@
-# SnakesAndLadders
-This was a project I had to create for school, but it turned out well.
+This was a project I had to create for school, but it turned out quite well and I'm pretty proud of it, I got some help because I was new to the language.  It is basically a program where you can roll a dice, and then you will play snakes and ladders by having the code output your location, and then move it according to your diceroll.  This was pretty challenging but I worked hard on it and it was very nicely formatted.
